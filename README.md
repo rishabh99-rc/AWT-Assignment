@@ -19,7 +19,5 @@
 
 <img src="./Screenshots/3.png">
 
-## Home page
 
-<img src="./Screenshots/2.png">
 
