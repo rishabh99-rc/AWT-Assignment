@@ -23,38 +23,3 @@
 
 <img src="./Screenshots/2.png">
 
-## Data Entry page
-
-<img src="./Screenshots/4.png">
-
-## After adding data
-
-<img src="./Screenshots/5.png">
-
-## Database after adding data
-
-<img src="./Screenshots/6.png">
-
-## Data Reterival page
-
-<img src="./Screenshots/7.png">
-
-## Data After Reterival
-
-<img src="./Screenshots/8.png">
-
-## update page
-
-<img src="./Screenshots/10.png">
-
-## Data updated in database
-
-<img src="./Screenshots/11.png">
-
-## Click on any favorite player
-
-<img src="./Screenshots/12.png">
-
-## Click on logout button
-
-<img src="./Screenshots/13.png">
